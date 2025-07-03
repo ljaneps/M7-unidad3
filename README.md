@@ -37,4 +37,8 @@ Implementación de redis:
 
 ![Captura de pantalla 2025-07-03 222401](https://github.com/user-attachments/assets/619540b4-1244-4660-93a3-51cae7b28bc0)
 
+Tabla de base de datos desde la que se obtiene la información:
+![image](https://github.com/user-attachments/assets/40a0704a-6f73-463f-b675-ec2e46ea8472)
+
+
 
